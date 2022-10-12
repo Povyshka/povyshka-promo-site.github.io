@@ -1,0 +1,24 @@
+{
+  "name": "povyshka.github.io",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Povyshka/povyshka.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Povyshka/povyshka.github.io/issues"
+  },
+  "homepage": "https://github.com/Povyshka/povyshka.github.io#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
